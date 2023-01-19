@@ -50,7 +50,7 @@ export default {
 
 <template>
     <div class="card col-3 m-3 p-2 pic" style="max-height: 480px; overflow:scroll;" v-for="(pic , n) in cards" :key="n">
-        {{ n }}
+        {{ n+1 }}
         <img :src="pic.image" :alt="pic.alt">
         <div class="card-body">
             <h5 class="card-title">{{ pic.title }}</h5>
