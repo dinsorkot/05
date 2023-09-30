@@ -31,7 +31,7 @@ export default {
                     content: 'Card content 4'
                 },
                 {
-                    image: 'https://raw.githubusercontent.com/dinsorkot/05/master/assets/img/pic5.jpg',
+                    image: 'https://raw.githubusercontent.com/dinsorkot/05/master/src/assets/img/pic5.jpg',
                     alt: 'pic5',
                     title: 'Card title 5',
                     content: 'Card content 5'
