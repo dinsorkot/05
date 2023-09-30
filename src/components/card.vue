@@ -7,37 +7,37 @@ export default {
         return {
             cards: [
                 {
-                    image: './src/assets/img/pic1.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic1.jpg',
                     alt: 'pic1',
                     title: 'Card title 1',
                     content: 'Card content 1'
                 },
                 {
-                    image: './src/assets/img/pic2.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic2.jpg',
                     alt: 'pic2',
                     title: 'Card title 2',
                     content: 'Card content 2'
                 },
                 {
-                    image: './src/assets/img/pic3.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic3.jpg',
                     alt: 'pic3',
                     title: 'Card title 3',
                     content: 'Card content 3'
                 },
                 {
-                    image: './src/assets/img/pic4.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic4.jpg',
                     alt: 'pic4',
                     title: 'Card title 4',
                     content: 'Card content 4'
                 },
                 {
-                    image: './src/assets/img/pic5.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic5.jpg',
                     alt: 'pic5',
                     title: 'Card title 5',
                     content: 'Card content 5'
                 },
                 {
-                    image: './src/assets/img/pic6.jpg',
+                    image: 'https://github.com/dinsorkot/05/blob/master/src/assets/img/pic6.jpg',
                     alt: 'pic6',
                     title: 'Card title 6',
                     content: 'Card content 6'
